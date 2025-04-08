@@ -1,5 +1,3 @@
-# Machine Learning With Python
-
 # Machine Learning Projects in Python
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
